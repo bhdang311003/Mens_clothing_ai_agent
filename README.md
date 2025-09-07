@@ -1,6 +1,6 @@
 # 🧑‍💼 Men’s Clothing AI Agent  
 
-## Overview  
+## 📌 Overview  
 This project demonstrates an AI Agent designed to act as a smart shopping assistant for men’s clothing products.
 By integrating LangChain with Retrieval-Augmented Generation (RAG) and deploying via FastAPI, the agent can answer user queries in a natural, conversational way — just like a virtual sales assistant.
 
